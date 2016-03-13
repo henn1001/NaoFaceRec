@@ -1,0 +1,1 @@
+/home/demo/NAO/NaoQi_Sdk/usr/nfr/build-mytoolchain/src/CMakeFiles/nfr.dir
